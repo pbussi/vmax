@@ -142,7 +142,7 @@ body {
 [ 2.1 Logo ]
 ---------------------*/
 .logo {
-  max-width: 109px;
+  max-width: 150px;
   padding-top: 20px;
   float: left;
 }
@@ -170,7 +170,7 @@ body {
   transition: none;
 }
 #nav li.active a {
-  border-bottom: 2px solid #e6af2a;
+  border-bottom: 2px solid #039;
 }
 .nav.nav-tabs {
   border-bottom: 0 none;
@@ -184,7 +184,7 @@ body {
   border-radius: 0;
 }
 #nav a:hover{
-  border-bottom:2px solid #e6af2a;
+  border-bottom:2px solid #039;
   background:none;
 }
 /*jquery-sticky-menu*/
@@ -245,7 +245,7 @@ html,body{height:100%;}
   text-transform: uppercase;
 }
 .bg-yellow {
-  background: #e6af2a none repeat scroll 0 0;
+  background: #039 none repeat scroll 0 0;
   height: 2px !important;
   margin: 14% 0;
   width: 30px;
@@ -266,8 +266,8 @@ html,body{height:100%;}
 	display:inline-block;
 }
 .digital:hover{
-  background:#e6af2a;
-  border:2px solid #e6af2a;
+  background:#039;
+  border:2px solid #039;
 }
 /*-------------------
 [ 2.2 Fawesome-Control ]
@@ -432,7 +432,7 @@ html,body{height:100%;}
 [5. What-We-Do ]
 --------------------------------------------------------------------*/
 .what_do.section_padding {
-  background: #e6af2a none repeat scroll 0 0;
+  background: #039 none repeat scroll 0 0;
   color: #fff;
 }
 .blog-title p ,.what_do p {
@@ -456,7 +456,7 @@ html,body{height:100%;}
   text-transform: uppercase;
 }
 .do_text p {
-  color: #000000;
+  color: #FFF;
   display: block;
   line-height: 20px;
   margin-top: 15px;
@@ -812,7 +812,7 @@ html,body{height:100%;}
   padding-bottom: 100px;
 }
 .contact_icon i {
-  color: #e6af2a;
+  color: #039;
   font-size: 45px;
   margin-bottom: 15px;
 }
@@ -832,7 +832,7 @@ input, textarea {
   width: 100%;
 }
 input:focus,textarea:focus {
-  border: 1px solid #e6af2a;
+  border: 1px solid #039;
 }
 .required {
   font-size: 11px;
@@ -849,7 +849,7 @@ input:focus,textarea:focus {
 [ 14 Happy ]
 --------------------------------------------------------------------*/
 .happy {
-  background: #e6af2a none repeat scroll 0 0;
+  background: #039 none repeat scroll 0 0;
   color: #fff;
 }
 #counter_happy {
